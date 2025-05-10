@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <!-- Or your chosen license -->
 <!-- You can add more badges, e.g., for build status if you set up CI -->
 
----
+
 **⚠️ Work in Progress & Experimental Software ⚠️**
 
 Built and debugged with **Gemini 2.5 Pro Preview 05-06**.
@@ -12,7 +12,7 @@ This application is currently under active development and should be considered 
 While it aims to be a helpful tool, you may encounter bugs, unexpected behavior, or incomplete features.
 **Use at your own risk, especially with critical project data.**
 Please back up your projects before performing destructive operations like "Delete Project" or "Clean Dependencies."
----
+
 
 A Python-based desktop GUI application for managing local Node.js projects, offering a XAMPP-like interface for common development tasks.
 
