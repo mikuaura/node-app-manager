@@ -15,7 +15,7 @@ While it aims to be a helpful tool, you may encounter bugs, unexpected behavior,
 **Use at your own risk, especially with critical project data.**
 Please back up your projects before performing destructive operations like "Delete Project" or "Clean Dependencies."
 
-![Node.js App Manager Screenshot](screenshot.png)
+![Node.js App Manager Screenshot](screenshot.PNG)
 
 ## Overview
 
